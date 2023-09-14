@@ -1,6 +1,6 @@
 # CURRENCY CONVERTER
 
-<a href="https://forecast-vue.netlify.app/">DEMO</a>
+<a href="https://currency-converter-max.netlify.app/">DEMO</a>
 
 Currency Converter, developed using the React library and CSS Sass preprocessor, is a web application that allows users to easily and conveniently convert one currency to another. Can be a starting point for you!
 
